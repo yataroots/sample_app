@@ -1,4 +1,4 @@
-# Ruby on Rails チュートリアル1    ：サンプルアプリケーション
+# Ruby on Rails チュートリアル2：サンプルアプリケーション
 
 これは、以下のためのサンプルアプリケーションです。
 [*Ruby on Rails Tutorial*](http://railstutorial.jp/)
