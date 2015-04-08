@@ -1,5 +1,4 @@
-# Ruby on Rails チュートリアル2：サンプルアプリケーション
+# Ruby on Rails チュートリアル：サンプルアプリケーション
 
-これは、以下のためのサンプルアプリケーションです。
-[*Ruby on Rails Tutorial*](http://railstutorial.jp/)
-by [Michael Hartl](http://michaelhartl.com/).
+これはサンプルアプリケーションです。
+
